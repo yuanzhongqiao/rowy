@@ -1,149 +1,107 @@
-<a href="https://www.rowy.io/" target="_blank">
-<img width="100%" src="https://user-images.githubusercontent.com/307298/218350866-cfd7c011-2247-4074-8b1d-06c26a4d0b96.png" />
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><a href="https://www.rowy.io/" rel="nofollow">
+<img width="100%" src="https://user-images.githubusercontent.com/307298/218350866-cfd7c011-2247-4074-8b1d-06c26a4d0b96.png" style="max-width: 100%;">
 </a>
-
-<h4 align="center">
-✨ Airtable-like UI for managing database ✨ Build any automation, with or without code ✨
-</h4>
-<p align="center" >
-Connect to your database and create Cloud Functions in low-code - without leaving your browser.<br/>
-Focus on building your apps.
-Low-code for Firebase and Google Cloud.
+<div class="markdown-heading" dir="auto"><h4 align="center" tabindex="-1" class="heading-element" dir="auto" _msttexthash="243255584" _msthash="322">✨ 用于管理数据库✨的类似 Airtable 的 UI 构建任何自动化，带或不带代码 ✨</h4><a id="user-content--airtable-like-ui-for-managing-database--build-any-automation-with-or-without-code-" class="anchor" aria-label="永久链接：
+✨ 用于管理数据库✨的类似 Airtable 的 UI 构建任何自动化，带或不带代码 ✨" href="#-airtable-like-ui-for-managing-database--build-any-automation-with-or-without-code-" _mstaria-label="25793157" _msthash="323"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto" _msttexthash="582162555" _msthash="324">连接到您的数据库并以低代码创建 Cloud Functions - 无需离开浏览器。<br _istranslated="1">专注于构建您的应用程序。
+适用于 Firebase 和 Google Cloud 的低代码。</p>
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://discord.gg/fjBugmvzZP" rel="nofollow"><img src="https://camo.githubusercontent.com/21db54dacec974142766acff6d7413b8eb8b64fa5a3fd5c14fef4ba0a131e3f6/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f666a4275676d767a5a50" alt="吵闹的 Discord" data-canonical-src="https://dcbadge.vercel.app/api/server/fjBugmvzZP" style="max-width: 100%;" _mstalt="179673" _msthash="325"></a></p>
+<p align="center" dir="auto">
+    <font _mstmutation="1" _msttexthash="41585544" _msthash="326"><a href="http://www.rowy.io" rel="nofollow" _mstmutation="1" _istranslated="1"><b _istranslated="1">网站</b></a> • <a href="http://docs.rowy.io" rel="nofollow" _mstmutation="1" _istranslated="1"><b _istranslated="1">文档</b></a> • <a href="https://discord.gg/fjBugmvzZP" rel="nofollow" _mstmutation="1" _istranslated="1"><b _istranslated="1">与我们聊天</b></a> • <a href="https://twitter.com/rowyio" rel="nofollow" _mstmutation="1" _istranslated="1"><b _istranslated="1">Twitter</b></a></font>
 </p>
-
-<div align="center">
-
-[![Rowy Discord](https://dcbadge.vercel.app/api/server/fjBugmvzZP)](https://discord.gg/fjBugmvzZP)
-
-<p align="center">
-    <a href="http://www.rowy.io"><b>Website</b></a> •
-    <a href="http://docs.rowy.io"><b>Documentation</b></a> •
-    <a href="https://discord.gg/fjBugmvzZP"><b>Chat with us</b></a> • 
-    <a href="https://twitter.com/rowyio"><b>Twitter</b></a>
-</p>
-
-[![Last commit](https://img.shields.io/github/last-commit/rowyio/rowy/rc)](https://github.com/rowyio/rowy/commits/rc)
-[![GitHub stars](https://img.shields.io/github/stars/rowyio/rowy)](https://github.com/rowyio/rowy/stargazers/)
-
+<p dir="auto"><a href="https://github.com/rowyio/rowy/commits/rc"><img src="https://camo.githubusercontent.com/f16e3c41fc0ec0202f070e6a9a431f1bd2e4bcd72ef6814b75a0bf0e6ff3d3d5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f726f7779696f2f726f77792f7263" alt="上次提交" data-canonical-src="https://img.shields.io/github/last-commit/rowyio/rowy/rc" style="max-width: 100%;" _mstalt="159874" _msthash="327"></a>
+<a href="https://github.com/rowyio/rowy/stargazers/"><img src="https://camo.githubusercontent.com/2cf27c3158dc59ff2ba02e03a4f03cfd934aaeecaf8f63bd60ac90ed28cccc6b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f726f7779696f2f726f7779" alt="GitHub 星标" data-canonical-src="https://img.shields.io/github/stars/rowyio/rowy" style="max-width: 100%;" _mstalt="180921" _msthash="328"></a></p>
 </div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="29195127" _msthash="329">现场演示 🛝</h2><a id="user-content-live-demo-" class="anchor" aria-label="永久链接： Live Demo 🛝" href="#live-demo-" _mstaria-label="37633089" _msthash="330"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="93670473" _msthash="331">💥 在<a href="https://demo.rowy.io/" rel="nofollow" _istranslated="1">现场演示 Playground</a> 💥 上探索 Rowy</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6382259" _msthash="332">特征 ✨</h2><a id="user-content-features-" class="anchor" aria-label="永久链接：功能 ✨" href="#features-" _mstaria-label="3628352" _msthash="333"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
-## Live Demo 🛝
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频描述 20211004-RowyWebsite.mp4" class="m-1" _mstaria-label="1218763" _msthash="334" _msttexthash="497458">20211004-RowyWebsite.mp4</span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-💥 Explore Rowy on [live demo playground](https://demo.rowy.io/) 💥
+  <video src="https://private-user-images.githubusercontent.com/307298/157185793-f67511cd-7b7b-4229-9589-d7defbf7a63f.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTE2NTcsIm5iZiI6MTczMTU1MTM1NywicGF0aCI6Ii8zMDcyOTgvMTU3MTg1NzkzLWY2NzUxMWNkLTdiN2ItNDIyOS05NTg5LWQ3ZGVmYmY3YTYzZi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExNFQwMjI5MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDhmMDBjMTczYmYxOGM0MzYzN2M3YzE0ZTliNTlhZWM0YzhhYzJiNTBiM2JjZTE1MjZjMTJlMTZkYzA3ZTkyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.s5e1t-N1jyxLTTdTp6bG7lt-XicW8yJX2O9BuDJeApM" data-canonical-src="https://private-user-images.githubusercontent.com/307298/157185793-f67511cd-7b7b-4229-9589-d7defbf7a63f.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTE2NTcsIm5iZiI6MTczMTU1MTM1NywicGF0aCI6Ii8zMDcyOTgvMTU3MTg1NzkzLWY2NzUxMWNkLTdiN2ItNDIyOS05NTg5LWQ3ZGVmYmY3YTYzZi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExNFQwMjI5MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDhmMDBjMTczYmYxOGM0MzYzN2M3YzE0ZTliNTlhZWM0YzhhYzJiNTBiM2JjZTE1MjZjMTJlMTZkYzA3ZTkyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.s5e1t-N1jyxLTTdTp6bG7lt-XicW8yJX2O9BuDJeApM" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-## Features ✨
+  </video>
+</details>
 
-<!-- <table>
-    <tr>
-    <th>
-      <a href="#">Database</a>
-    </th>
-    <th>
-      <a href="#">Automation</a>
-    </th>
-    </tr>
-    <tr>
-    <td>
-        <a href="#">
-        <img src=""/>
-    </a>
-    </td>
-    <td>
-        <a href="#">
-        <img src=""/>
-    </a>
-    </td>
-    </tr>
-</table> -->
 
-https://user-images.githubusercontent.com/307298/157185793-f67511cd-7b7b-4229-9589-d7defbf7a63f.mp4
-
-<!-- <img width="85%" src="https://firebasestorage.googleapis.com/v0/b/rowyio.appspot.com/o/publicDemo%2FRowy%20Website%20Video%20GIF%20Small.gif?alt=media&token=3f699a8f-c1f2-4046-8ed5-e4ff66947cd8" />
- -->
-
-### Powerful spreadsheet interface for Firestore
-
-- CMS for Firestore
-- CRUD operations
-- Bulk import or export data - csv, json, tsv
-- Sort and filter by row values
-- Lock, Freeze, Resize, Hide and Rename columns
-- Multiple views for the same collection
-
-### Automate with cloud functions and ready made extensions
-
-- Build cloud functions workflows on field level data changes
-  - Use any NPM modules or APIs
-- Connect to your favourite tool with pre-built code blocks or create your own
-  - SendGrid, Algolia, Twilio, Bigquery and more
-
-### Rich and flexible data fields
-
-- [30+ fields supported](https://docs.rowy.io/field-types/supported-fields)
-  - Basic types: Short Text, Long Text, Email, Phone, URL…
-  - Custom UI pickers: Date, Checkbox, Single Select, Multi Select…
-  - Uploaders: Image, File
-  - Rich Editors: JSON, Code, Rich Text (HTML), Markdown
-- Data validation, default values, required fields
-- Action field: Clickable trigger for any Cloud Function
-- Aggregate field: Populate cell with value aggregated from the row’s sub-table
-- Connector field: Connect data from multiple table collections
-- Connect Service: Get data from any HTTP endpoint
-
-### Collaborate with your team
-
-- Granular table-level and field-level permission control  
-  with role based access controls
-- Built in user management
-- Customizable views for different user roles
-
-## Quick guided install
-
-Set up Rowy on your Google Cloud Platform project with this easy deploy button.
-Your data and cloud functions stay on your own Firestore/GCP and is managed via
-a cloud run instance that operates exclusively on your GCP project. So we do do
-not access or store any of your data on Rowy.
-
-[<img width="200" alt="Guided quick start button" src="https://user-images.githubusercontent.com/307298/185548050-e9208fb6-fe53-4c84-bbfa-53c08e03c15f.png">](https://rowy.app/)
-
-https://rowy.app
-
-## Documentation
-
-You can find the full documentation with how-to guides and templates
-[here](http://docs.rowy.io/).
-
-## Manual Install
-
-We recommend the
-[quick guided install](https://github.com/rowyio/rowy#quick-guided-install)
-option above. Manual install option is only recommended if you want to develop
-and contribute to the project. Follow this
-[guide](https://docs.rowy.io/setup/install#option-2-manual-install) for manual
-setup.
-
-## Roadmap
-
-[View our roadmap](https://roadmap.rowy.io/) on Rowy - Upvote, downvote, share
-your thoughts!
-
-If you'd like to propose a feature, submit an issue
-[here](https://github.com/rowyio/rowy/issues/new?assignees=&labels=&template=feature_request.md&title=).
-
-## Support the project
-
-- Join a community of developers on [Discord](https://discord.gg/fjBugmvzZP) and
-  share your ideas/feedback 💬
-- Follow us on [Twitter](https://twitter.com/rowyio) and help
-  [spread the word](https://twitter.com/intent/tweet?text=Check%20out%20@rowyio%20-%20It%27s%20like%20an%20open-source%20Airtable%20for%20your%20database,%20but%20with%20a%20built-in%20code%20editor%20for%20cloud%20functions%20to%20run%20on%20data%20CRUD!%0a%0aEsp%20if%20building%20on%20@googlecloud%20and%20@Firebase%20stack,%20it%20is%20the%20fastest%20way%20to%20build%20your%20product.%20Live%20demo:%20https://demo.rowy.io)
-  🙏
-- Give us a star to this Github repo ⭐️
-- Submit a PR. Take a look at our
-  [contribution guide](https://github.com/rowyio/rowy/blob/main/CONTRIBUTING.md)
-  and get started with
-  [good first issues](https://github.com/rowyio/rowy/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
-
-## Help
-
-- Live chat support on [Discord](https://www.rowy.io/discord)
-- [Email](mailto:hello@rowy.io)
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="87954529" _msthash="335">适用于 Firestore 的强大电子表格界面</h3><a id="user-content-powerful-spreadsheet-interface-for-firestore" class="anchor" aria-label="永久链接：Firestore 的强大电子表格界面" href="#powerful-spreadsheet-interface-for-firestore" _mstaria-label="2161159" _msthash="336"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="16557437" _msthash="337">适用于 Firestore 的 CMS</li>
+<li _msttexthash="6892821" _msthash="338">CRUD 操作</li>
+<li _msttexthash="39668733" _msthash="339">批量导入或导出数据 - csv、json、tsv</li>
+<li _msttexthash="30538573" _msthash="340">按行值排序和筛选</li>
+<li _msttexthash="91953927" _msthash="341">锁定、冻结、调整大小、隐藏和重命名列</li>
+<li _msttexthash="33387614" _msthash="342">同一集合的多个视图</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="76407409" _msthash="343">使用云函数和现成的扩展实现自动化</h3><a id="user-content-automate-with-cloud-functions-and-ready-made-extensions" class="anchor" aria-label="永久链接：使用云功能和现成的扩展实现自动化" href="#automate-with-cloud-functions-and-ready-made-extensions" _mstaria-label="2865538" _msthash="344"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font _mstmutation="1" _msttexthash="76665615" _msthash="345">根据字段级数据更改构建 Cloud Functions 工作流</font><ul dir="auto">
+<li _msttexthash="24592308" _msthash="346">使用任何 NPM 模块或 API</li>
+</ul>
+</li>
+<li><font _mstmutation="1" _msttexthash="205436491" _msthash="347">使用预构建的代码块连接到您最喜欢的工具，或创建自己的工具</font><ul dir="auto">
+<li _msttexthash="27743976" _msthash="348">SendGrid、Algolia、Twilio、Bigquery 等</li>
+</ul>
+</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="33592754" _msthash="349">丰富灵活的数据字段</h3><a id="user-content-rich-and-flexible-data-fields" class="anchor" aria-label="固定链接：丰富灵活的数据字段" href="#rich-and-flexible-data-fields" _mstaria-label="1124708" _msthash="350"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://docs.rowy.io/field-types/supported-fields" rel="nofollow" _msttexthash="13318994" _msthash="351">支持 30+ 字段</a>
+<ul dir="auto">
+<li _msttexthash="121115137" _msthash="352">基本类型：短文本、长文本、电子邮件、电话、URL......</li>
+<li _msttexthash="50877827" _msthash="353">自定义 UI 选择器：Date、Checkbox、Single Select、Multi Select...</li>
+<li _msttexthash="43703673" _msthash="354">上传者： 图片， 文件</li>
+<li _msttexthash="108481815" _msthash="355">富编辑器：JSON、代码、富文本 （HTML）、Markdown</li>
+</ul>
+</li>
+<li _msttexthash="56951284" _msthash="356">数据验证、默认值、必填字段</li>
+<li _msttexthash="137422090" _msthash="357">Action 字段：任何 Cloud Functions 函数的可点击触发器</li>
+<li _msttexthash="131480388" _msthash="358">聚合字段：使用从行的子表中聚合的值填充单元格</li>
+<li _msttexthash="107349164" _msthash="359">连接器字段：连接来自多个表集合的数据</li>
+<li _msttexthash="104371449" _msthash="360">Connect Service：从任何 HTTP 端点获取数据</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="23089027" _msthash="361">与您的团队协作</h3><a id="user-content-collaborate-with-your-team" class="anchor" aria-label="永久链接：与您的团队协作" href="#collaborate-with-your-team" _mstaria-label="1049334" _msthash="362"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="195829569" _msthash="363">通过基于角色的访问控制进行精细的表级和字段级权限控制<br _istranslated="1"></li>
+<li _msttexthash="21228740" _msthash="364">内置用户管理</li>
+<li _msttexthash="74718202" _msthash="365">针对不同用户角色的可自定义视图</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="20793669" _msthash="366">快速引导安装</h2><a id="user-content-quick-guided-install" class="anchor" aria-label="永久链接：快速引导安装" href="#quick-guided-install" _mstaria-label="777517" _msthash="367"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="2139680985" _msthash="368">使用这个简单的部署按钮在您的 Google Cloud Platform 项目上设置 Rowy。
+您的数据和云功能保留在您自己的 Firestore/GCP 上，并通过
+一个专门在您的 GCP 项目上运行的 Cloud Run 实例。所以我们确实这样做了
+不访问或存储您在 Rowy 上的任何数据。</p>
+<p dir="auto"><a href="https://rowy.app/" rel="nofollow"><img width="200" alt="引导式快速入门按钮" src="https://user-images.githubusercontent.com/307298/185548050-e9208fb6-fe53-4c84-bbfa-53c08e03c15f.png" style="max-width: 100%;" _mstalt="545857" _msthash="369"></a></p>
+<p dir="auto"><a href="https://rowy.app" rel="nofollow" _msttexthash="290771" _msthash="370">https://rowy.app</a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5144373" _msthash="371">文档</h2><a id="user-content-documentation" class="anchor" aria-label="永久链接： 文档" href="#documentation" _mstaria-label="559767" _msthash="372"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="127164258" _msthash="373">您可以<a href="http://docs.rowy.io/" rel="nofollow" _istranslated="1">在此处</a>找到包含操作指南和模板的完整文档。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="11783824" _msthash="374">手动安装</h2><a id="user-content-manual-install" class="anchor" aria-label="永久链接：手动安装" href="#manual-install" _mstaria-label="548184" _msthash="375"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="837061316" _msthash="376">我们建议使用上面的<a href="https://github.com/rowyio/rowy#quick-guided-install" _istranslated="1">快速引导安装</a>选项。仅当您想要开发时，才建议使用手动安装选项
+并为项目做出贡献。请按照<a href="https://docs.rowy.io/setup/install#option-2-manual-install" rel="nofollow" _istranslated="1">本指南进行</a>手动操作
+设置。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9286563" _msthash="377">路线图</h2><a id="user-content-roadmap" class="anchor" aria-label="永久链接： 路线图" href="#roadmap" _mstaria-label="331747" _msthash="378"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="175054048" _msthash="379"><a href="https://roadmap.rowy.io/" rel="nofollow" _istranslated="1">查看我们在</a> Rowy 上的路线图 - 赞成、反对、分享
+你的想法！</p>
+<p dir="auto" _msttexthash="123210789" _msthash="380">如果您想提出一项功能，<a href="https://github.com/rowyio/rowy/issues/new?assignees=&amp;labels=&amp;template=feature_request.md&amp;title=" _istranslated="1">请在此处</a>提交问题。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="13517894" _msthash="381">支持项目</h2><a id="user-content-support-the-project" class="anchor" aria-label="永久链接： 支持项目" href="#support-the-project" _mstaria-label="746577" _msthash="382"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="205769915" _msthash="383">加入 <a href="https://discord.gg/fjBugmvzZP" rel="nofollow" _istranslated="1">Discord</a> 上的开发者社区，并
+分享您的想法/反馈 💬</li>
+<li _msttexthash="115553516" _msthash="384">在 <a href="https://twitter.com/rowyio" rel="nofollow" _istranslated="1">Twitter</a> 上关注我们并帮助<a href="https://twitter.com/intent/tweet?text=Check%20out%20@rowyio%20-%20It%27s%20like%20an%20open-source%20Airtable%20for%20your%20database,%20but%20with%20a%20built-in%20code%20editor%20for%20cloud%20functions%20to%20run%20on%20data%20CRUD!%0a%0aEsp%20if%20building%20on%20@googlecloud%20and%20@Firebase%20stack,%20it%20is%20the%20fastest%20way%20to%20build%20your%20product.%20Live%20demo:%20https://demo.rowy.io" rel="nofollow" _istranslated="1">传播信息</a> 🙏</li>
+<li _msttexthash="62050911" _msthash="385">给我们这个 Github 仓库⭐️打星</li>
+<li _msttexthash="175928636" _msthash="386">提交 PR。看看我们的<a href="https://github.com/rowyio/rowy/blob/main/CONTRIBUTING.md" _istranslated="1">贡献指南</a>，从<a href="https://github.com/rowyio/rowy/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22" _istranslated="1">好的第一批问题</a>开始。</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4394754" _msthash="387">帮助</h2><a id="user-content-help" class="anchor" aria-label="永久链接： 帮助" href="#help" _mstaria-label="242047" _msthash="388"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="47270028" _msthash="389"><a href="https://www.rowy.io/discord" rel="nofollow" _istranslated="1">Discord</a> 上的实时聊天支持</li>
+<li><a href="mailto:hello@rowy.io" _msttexthash="12122825" _msthash="390">电子邮件</a></li>
+</ul>
+</article></div>
